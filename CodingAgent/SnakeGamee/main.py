@@ -1,3 +1,5 @@
+# Use llama 70B or qwen 32B for better results
+
 import autogen
 
 import os
