@@ -45,13 +45,9 @@ Sequential chat in AI is when the AI remembers the flow of the conversation and 
 
 ![Group Chat (1)](https://github.com/user-attachments/assets/82f5c3f9-f07f-43fa-bd60-b69c145ba114)
 
-reflection_with_llm
+reflection_with_llm- You can take the entire conversation from Agent 1, summarize it, and give that summary to Agent.
 
-You can take the entire conversation from Agent 1, summarize it, and give that summary to Agent.
-
-last_message
-
-Alternatively, you can use the "last_message" method to only pass the most recent message to Agent 2.
+last_message- Alternatively, you can use the "last_message" method to only pass the most recent message to Agent 2.
 
 In the particular QuotesAgent we have used reflection_with_llm
 
