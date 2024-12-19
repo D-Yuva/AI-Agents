@@ -51,6 +51,8 @@ last_message- Alternatively, you can use the "last_message" method to only pass 
 
 In the particular QuotesAgent we have used reflection_with_llm
 
+![Group Chat (2)](https://github.com/user-attachments/assets/c5a06e95-f7b4-44cb-a59b-4c73b773c33e)
+
 
 
   
