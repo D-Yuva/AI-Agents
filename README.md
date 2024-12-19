@@ -39,4 +39,20 @@
       The User Agent launches the code and finds out the error present in the assistants code, sends it back to the assistant to fix it, 
       this prcoess continues until the desired, fulling functing code is completed
 
+### Sequential Chat
+
+Sequential chat in AI is when the AI remembers the flow of the conversation and responds based on what was said earlier. It keeps track of previous messages so it can give more relevant and connected answers, making the conversation feel natural and ongoing.
+
+![Group Chat (1)](https://github.com/user-attachments/assets/82f5c3f9-f07f-43fa-bd60-b69c145ba114)
+
+reflection_with_llm
+You can take the entire conversation from Agent 1, summarize it, and give that summary to Agent.
+
+last_message
+Alternatively, you can use the "last_message" method to only pass the most recent message to Agent 2.
+
+In the particular QuotesAgent we have used reflection_with_llm
+
+
+
   
