@@ -15,6 +15,11 @@
 
 ### Group Chat Agent: 
 
+#### Research Agent
+
+![Group Chat](https://github.com/user-attachments/assets/02d3f7b5-84f2-49f5-874e-7d53c11be935)
+
+#### Jokes Agent
   Bob, Alice, user_proxy and manager- 4 AI Agents communicates with each other
   
     Bob: Tells a joke
