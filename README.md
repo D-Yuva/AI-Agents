@@ -53,6 +53,10 @@ In the particular QuotesAgent we have used reflection_with_llm
 
 ![Group Chat (2)](https://github.com/user-attachments/assets/c5a06e95-f7b4-44cb-a59b-4c73b773c33e)
 
+### Nested Agent
 
+![4](https://github.com/user-attachments/assets/e06023a2-32b7-4b03-9077-9fd214b992ce)
+
+![5](https://github.com/user-attachments/assets/0eda6481-64e7-4064-a5ee-b7f546f9a038)
 
   
