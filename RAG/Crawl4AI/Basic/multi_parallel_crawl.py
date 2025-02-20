@@ -74,7 +74,7 @@ async def crawl_parallel(urls: List[str], max_concurrent: int = 3):
                 else:
                     fail_count += 1
 
-        print(f"\nSummary:")
+        print("\nSummary:")
         print(f"  - Successfully crawled: {success_count}")
         print(f"  - Failed: {fail_count}")
 
