@@ -2,7 +2,7 @@
 
     Use qwen 32B or llama3 70B for much better results 
 
-    pip install pyautogen
+    pip install ag2
 
     Download LM Studio
       - Download the required model 
